@@ -1,0 +1,8 @@
+a = 2 # a is an integer
+b = 4.23 # b is a floating number
+c = "GCEK" # string
+d = True # bolleans
+_riku = None # none type variable (nothing)
+
+# @jnv = 43  #invalid due to @ 
+# # A variable name can only start with an alphabet and underscores.
