@@ -1,0 +1,6 @@
+friend = ["Apple","Orange",3,23.79,"Banana","Benoogopal"]
+
+print(friend[0])# unlike strings lists are mutable
+friend[3]="Raman"
+print(friend[3])
+print(friend[1:4])
