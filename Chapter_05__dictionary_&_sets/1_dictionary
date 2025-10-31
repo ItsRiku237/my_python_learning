@@ -1,0 +1,15 @@
+d = {} #empty dictonary.
+marks ={
+    "Riku": 100,
+    "Harry": 98,
+    "suvam" : 90,
+    'list': [1,2,3],
+    "Shibu":0,
+    90: "Aditya"
+}
+
+print(marks,type(marks))
+print(marks["Riku"])# it direct search the mark of Riku 0(1) in time(advantages)
+print(marks["Shibu"])
+print(marks[90])
+
