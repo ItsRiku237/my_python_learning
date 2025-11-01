@@ -1,0 +1,14 @@
+a = int(input("Enter Your age : "))
+
+#if elif else ladder
+
+if(a>=18 and a<60):
+    print("You are a adult person.")
+elif(a>60):
+    print("You are a old person.")
+elif(a>0 and a<18):
+    print("You are not a adult person.")
+else:
+    print("Enter a valid age !!")
+
+print("End of program !!")
