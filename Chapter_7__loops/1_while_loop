@@ -1,0 +1,35 @@
+# While loop
+
+i = 1
+
+while(i<11):
+    print(i)
+    i +=1
+
+# while loop with list
+l = ["Riku",23 , 34.67 , "Samaya" ,True]
+j = 0
+while(j<len(l)):
+    print(l[j])
+    j +=1
+
+# while loop with touple
+t = ("Riku",98 , 50.67 , "Tilak" ,False)
+k =0
+while(k<len(t)):
+    print(t[k])
+    k +=1
+
+# while loop with string
+s = "Riku"
+a=0
+while(a<len(s)):
+    print(s[a])
+    a +=1
+
+# while loop with set but not working in set.
+# set = {1 ,2 ,3 ,4 , 5}
+# b =0 
+# while(b<len(set)):
+#     print(set)
+#     b +=1
