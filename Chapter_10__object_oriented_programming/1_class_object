@@ -1,0 +1,13 @@
+class Employee: # class
+    langauge ="Python" # class Attributes
+    salary = 1200000
+
+Riku = Employee() #Object
+Riku.name = "Riku" # instance attributes
+print(Riku.name, Riku.langauge, Riku.salary)
+
+
+Saleem = Employee()
+Employee.name = "Saleem"
+Saleem.salary = 1100000 # change class attribute
+print(Saleem.name, Saleem.langauge, Saleem.salary)
