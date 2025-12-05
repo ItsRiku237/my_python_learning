@@ -12,3 +12,4 @@ if((s1 in message) or (s2 in message) or (s3 in message) or (s4 in message)):
     print("This comment is a spam.")
 else:
     print("This comment is not a spam.")
+
