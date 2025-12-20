@@ -10,4 +10,5 @@ def rem(l,word):
 
 
 l = ["Riku","subham","Aman","an"]
+
 print(rem(l,"an"))
