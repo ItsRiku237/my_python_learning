@@ -9,4 +9,5 @@ with open("file.txt" , "r") as f:
     print(f.read())
     
 
+
 # we dont have to explicitly close the file. when we use "with" statement. 
